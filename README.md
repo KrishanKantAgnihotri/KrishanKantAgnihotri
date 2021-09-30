@@ -33,6 +33,4 @@
                <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishankantagnihotri&" alt="krishankantagnihotri" />
             </div>
         </div>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishanKantAgnihotri&show_icons=true&theme=radical&count_private=true)
     </div>
