@@ -25,14 +25,8 @@
         <br>
         <br>
         <div >
-            <div>
-                <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankantagnihotri&show_icons=true&locale=en&layout=compact" alt="kk2_agnihotri"  />
-            </div>
-            <br>
-         <div>
-          
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishanKantAgnihotri)](https://github.com/DenverCoder1/github-readme-streak-stats)
-            </div>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishankantagnihotri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KK" /></a>  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantagnihotri&layout=compact&theme=buefy&hide_border=true" /></a>        
         </div>
     </div>
     
