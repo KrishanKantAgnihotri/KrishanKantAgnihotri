@@ -29,8 +29,10 @@
                 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankantagnihotri&show_icons=true&locale=en&layout=compact" alt="kk2_agnihotri"  />
             </div>
             <br>
-            <div>
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishankantagnihotri&" alt="krishankantagnihotri" />
+         <div>
+          
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishanKantAgnihotri)](https://github.com/DenverCoder1/github-readme-streak-stats)
             </div>
         </div>
     </div>
+    
