@@ -22,6 +22,7 @@
         </div>
         <br>
         <br>
+ <div>
         <h2 align="left">Languages and Tools I Use:</h2>
 <img align="center" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
