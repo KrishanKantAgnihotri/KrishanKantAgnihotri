@@ -19,8 +19,16 @@
         <br>
         <br>
         <h2 align="left">Languages and Tools I Use:</h2>
-        <div style="display:flex; justify-content:center">
-             <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="60" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="60" height="40"/> 
+<img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
+<img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
+<img align="left" alt="git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" /> 
+<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
         </div>
         <br>
         <br>
