@@ -3,8 +3,12 @@
  ![Badge](https://cp-logo.vercel.app/atcoder/krishnaagnihotri?logo=true)
  ![Badge](https://cp-logo.vercel.app/leetcode/kk2_agnihotri?logo=true)
  
+ 
+
 <div align="center">
-        <h1 >Hi 👋, I'm Krishan Kant Agnihotri</h1> 
+        <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
+ <br>
+ <br>
         <h2 align="left">Connect with me:</h2>
         <div>
             <a href="https://www.linkedin.com/in/krishankantagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishankantagnihotri" height="30" width="40" /></a>
@@ -18,7 +22,7 @@
         </div>
         <br>
         <br>
-        <h2 align="center">Languages and Tools I Use:</h2>
+        <h2 align="left">Languages and Tools I Use:</h2>
 <img align="center" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
 <img align="center" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
@@ -37,4 +41,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantagnihotri&layout=compact&theme=buefy&hide_border=true" /></a>        
         </div>
     </div>
+    <br/>
     
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishankantagnihotri.krishankantagnihotri)
