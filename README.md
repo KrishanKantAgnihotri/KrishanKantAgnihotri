@@ -37,11 +37,22 @@
         </div>
         <br>
         <br>
+ <div>
+  <h2 align="left">Some of My Projects:</h2>
+  <ul style="list-style:none">
+   <li align="left"><a href="https://kktravels.herokuapp.com/">Tour and Travel Website</a></li>
+   <li align="left"><a href="https://kk-foods.herokuapp.com/">Restaurant Landing Page</a></li>
+   <li align="left"><a href="https://color-selector-kk.herokuapp.com/">Color Selector Web App</a></li>
+   <li align="left"><a href="https://blissful-johnson-c7f603.netlify.app/">Restaurant Mern Web App</a></li>
+   </ul>
+ </div>
+ <br/>
+ <br/>
+    </div>
         <div >
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishankantagnihotri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KK" /></a>  
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantagnihotri&layout=compact&theme=buefy&hide_border=true" /></a>        
         </div>
-    </div>
     <br/>
     
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishankantagnihotri.krishankantagnihotri)
