@@ -18,17 +18,17 @@
         </div>
         <br>
         <br>
-        <h2 align="left">Languages and Tools I Use:</h2>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
-<img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
-<img align="left" alt="git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" /> 
-<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
-<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+        <h2 align="center">Languages and Tools I Use:</h2>
+<img align="center" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
+<img align="center" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="center" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="center" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="center" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="center" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
+<img align="center" alt="git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" /> 
+<img align="center" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
+<img align="center" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
         </div>
         <br>
         <br>
