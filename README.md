@@ -40,10 +40,10 @@
  <div>
   <h2 align="left">Some of My Projects:</h2>
   <ul style="list-style:none">
+   <li align="left"><a href="https://blissful-johnson-c7f603.netlify.app/">Restaurant Mern Web App</a></li>
    <li align="left"><a href="https://kktravels.herokuapp.com/">Tour and Travel Website</a></li>
    <li align="left"><a href="https://kk-foods.herokuapp.com/">Restaurant Landing Page</a></li>
    <li align="left"><a href="https://color-selector-kk.herokuapp.com/">Color Selector Web App</a></li>
-   <li align="left"><a href="https://blissful-johnson-c7f603.netlify.app/">Restaurant Mern Web App</a></li>
    </ul>
  </div>
  <br/>
