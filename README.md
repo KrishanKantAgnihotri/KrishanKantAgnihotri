@@ -43,6 +43,7 @@ I am a Comptetive Programmer and pre-final year Student at USICT(GGSIPU) New Del
   <ul style="list-style:none">
    <li align="left"><a href="https://restaurant-mern-kk.netlify.app/">Restaurant Mern Web App</a></li>
    <li align="left"><a href="https://menu-design-react.netlify.app/">Dynamic Menu Design React App</a></li>
+   <li align="left"><a href="https://shades-generator-react-kk.netlify.app/">Shades Generator React App</a></li>
    <li align="left"><a href="https://kktravels.herokuapp.com/">Tour and Travel Website</a></li>
    <li align="left"><a href="https://kk-foods.herokuapp.com/">Restaurant Landing Page</a></li>
    <li align="left"><a href="https://slider-design-react-kk.netlify.app/">Slider Design React</a></li>
