@@ -7,7 +7,7 @@
 
 <div align="center">
         <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
-I am a Comptetive Programmer and pre-final year Student at USICT(GGSIPU) New Delhi,India.I know C/C++, Html, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Mongoose. Some of the coding platforms on which I actively participate are Codechef, Codeforces, and Atcoder. I am also a MERN Stack Developer. Recently our ICPC team secured rank 285 in Gwalior Pune Regional.You can look to my achievements in my <a href="https://drive.google.com/file/d/1WSOx3ljBhMPGQgGGl_wE5c2E1QN9rbQA/view?usp=sharing">Resume</a>
+I am a Comptetive Programmer and pre-final year Student at USICT(GGSIPU) New Delhi,India.I know C/C++, Html, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Mongoose. Some of the coding platforms on which I actively participate are Codechef, Codeforces, and Atcoder. I am also a MERN Stack Developer. Recently our ICPC team secured rank 285 in Gwalior Pune Regional.You can look to my achievements in my <a href="https://drive.google.com/file/d/1j59iGzZQrnwpbToYh28kO7fZkEeRdV5q/view?usp=sharing">Resume</a>
  <br>
  <br>
         <h2 align="left">Connect with me:</h2>
