@@ -7,7 +7,9 @@
 
 <div align="left">
         <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
-As a proficient problem-solver, I possess a deep understanding of various algorithms and data structures. My passion for programming extends beyond individual projects and I enjoy competing in programming competitions on platforms such as Codechef, Codeforces, and Atcoder. My expertise lies in several programming languages including C/C++, HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Mongoose. As a MERN Stack Developer, I take pride in my ability to develop full-stack applications that are both efficient and effective. You can explore my portfolio on my Github account, which highlights my innovative projects and contributions to the programming community. I am particularly proud of my recent achievement as part of the ICPC team, which secured a rank of 285 in the Gwalior Pune Regional competition.<a href="https://drive.google.com/file/d/1j59iGzZQrnwpbToYh28kO7fZkEeRdV5q/view?usp=sharing">Resume</a>
+As a proficient problem-solver, I possess a deep understanding of various algorithms and data structures. My passion for programming extends beyond individual projects and I enjoy competing in programming competitions on platforms such as Codechef, Codeforces, and Atcoder. My expertise lies in several programming languages including C/C++, HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Mongoose. As a MERN Stack Developer, I take pride in my ability to develop full-stack applications that are both efficient and effective. You can explore my portfolio on my Github account, which highlights my innovative projects and contributions to the programming community. I am particularly proud of my recent achievement as part of the ICPC team, which secured a rank of 285 in the Gwalior Pune Regional competition.
+ <br/>
+ <a href="https://drive.google.com/file/d/1OWjcpeH9olQsGuMrPx7-C0HD8Jrx54ND/view?usp=sharing">Resume</a>
  <br>
  <br>
         <h2 align="left">Connect with me:</h2>
