@@ -9,12 +9,12 @@
         <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
 As a proficient problem-solver, I possess a deep understanding of various algorithms and data structures. My passion for programming extends beyond individual projects and I enjoy competing in programming competitions on platforms such as Codechef, Codeforces, and Atcoder. My expertise lies in several programming languages including C/C++, HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Python. You can explore my portfolio on my GitHub account, which highlights my innovative projects and contributions to the programming community.
  <br/>
- <a href="https://drive.google.com/file/d/1JZ_RP-gFumpinOmaJZgKXQnPL5GPP9R1/view?usp=sharing">Resume</a>
+ <a href="https://drive.google.com/file/d/1bClpGaM7kA_x-8FaRXeRZXQNAjqSUEeV/view?usp=sharing">Resume</a>
  <br>
  <br>
         <h2 align="left">Connect with me:</h2>
         <div>
-            <a href="https://www.linkedin.com/in/krishankantagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishankantagnihotri" height="30" width="40" /></a>
+            <a href="https://www.linkedin.com/in/krishankantagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishankant_agnihotri" height="30" width="40" /></a>
             <a href="https://www.instagram.com/krishna_agnihotri_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krishan_kant_agnihotri" height="30" width="40" /></a>
             <a href="https://www.codechef.com/users/kk2_agnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
             <a href="https://www.hackerrank.com/krishnaagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
