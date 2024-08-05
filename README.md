@@ -9,7 +9,7 @@
         <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
 As a proficient problem-solver, I possess a deep understanding of various algorithms and data structures. My passion for programming extends beyond individual projects and I enjoy competing in programming competitions on platforms such as Codechef, Codeforces, and Atcoder. My expertise lies in several programming languages including C/C++, HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Python. You can explore my portfolio on my GitHub account, which highlights my innovative projects and contributions to the programming community.
  <br/>
- <a href="https://drive.google.com/drive/folders/1De4q9TKt2nEYBFj1sCaXoHaZmxEZWIhw">Resume</a>
+ <a href="https://drive.google.com/file/d/1EhuVsqaGMaH0KZyh5liEeSpjA36lBnZt/view?usp=sharing">Resume</a>
  <br>
  <br>
         <h2 align="left">Connect with me:</h2>
