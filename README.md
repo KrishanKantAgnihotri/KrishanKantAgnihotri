@@ -1,64 +1,72 @@
- ![Badge](https://cp-logo.vercel.app/codeforces/kk2_agnihotri?logo=true)
- ![Badge](https://cp-logo.vercel.app/codechef/kk2_agnihotri?logo=true)
- ![Badge](https://cp-logo.vercel.app/atcoder/krishnaagnihotri?logo=true)
- ![Badge](https://cp-logo.vercel.app/leetcode/kk2_agnihotri?logo=true)
- 
- 
+![Badge](https://cp-logo.vercel.app/codeforces/kk2_agnihotri?logo=true)
+![Badge](https://cp-logo.vercel.app/codechef/kk2_agnihotri?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/krishnaagnihotri?logo=true)
+![Badge](https://cp-logo.vercel.app/leetcode/kk2_agnihotri?logo=true)
 
 <div align="left">
-        <h1 align="left">Hi 👋, I'm Krishan Kant Agnihotri</h1>
-As a proficient problem-solver, I possess a deep understanding of various algorithms and data structures. My passion for programming extends beyond individual projects and I enjoy competing in programming competitions on platforms such as Codechef, Codeforces, and Atcoder. My expertise lies in several programming languages including C/C++, HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, ReactJs, and Python. You can explore my portfolio on my GitHub account, which highlights my innovative projects and contributions to the programming community.
- <br/>
- <a href="https://drive.google.com/file/d/1EhuVsqaGMaH0KZyh5liEeSpjA36lBnZt/view?usp=sharing">Resume</a>
- <br>
- <br>
-        <h2 align="left">Connect with me:</h2>
-        <div>
-            <a href="https://www.linkedin.com/in/krishankantagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishankant_agnihotri" height="30" width="40" /></a>
-            <a href="https://www.instagram.com/krishna_agnihotri_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krishan_kant_agnihotri" height="30" width="40" /></a>
-            <a href="https://www.codechef.com/users/kk2_agnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
-            <a href="https://www.hackerrank.com/krishnaagnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
-            <a href="https://codeforces.com/profile/kk2_agnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
-            <a href="https://www.leetcode.com/kk2_agnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kk2_agnihotri" height="30" width="40"/></a>
-            <a href="https://www.hackerearth.com/@kk2_agnihotri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kk2_agnihotri" height="30" width="40" /></a>
-            <a href="https://auth.geeksforgeeks.org/user/_noname_/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kk2_agnihtori" height="30" width="40" /></a>
-        </div>
-        <br>
-        <br>
- <div>
-        <h2 align="left">Languages and Tools I Use:</h2>
-<img align="center" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-<img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
-<img align="center" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="center" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="center" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="center" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="center" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
-<img align="center" alt="git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" /> 
-<img align="center" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
-<img align="center" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-        </div>
-        <br>
-        <br>
- <div>
-  <h2 align="left">Some of My Projects:</h2>
-  <ul style="list-style:none">
-   <li align="left"><a href="https://restaurant-mern-kk.netlify.app/">Restaurant Mern Web App</a></li>
-   <li align="left"><a href="https://todo-list-kk.netlify.app/">ToDo List React Web App</a></li>
-   <li align="left"><a href="https://shades-generator-react-kk.netlify.app/">Shades Generator React Web App</a></li>
-   <li align="left"><a href="https://kktravels.herokuapp.com/">Tour and Travel Website</a></li>
-   <li align="left"><a href="https://color-selector-kk.herokuapp.com/">Color Selector Web App</a></li>
-   </ul>
- </div>
- <br/>
- <br/>
-    </div>
-        <div >
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishankantagnihotri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KK" /></a>  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantagnihotri&layout=compact&theme=buefy&hide_border=true" /></a>
- 
- [![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=KrishanKantAgnihotri&theme=buefy&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-        </div>
-    <br/>
-    
+
+<h1>Hi 👋, I'm Krishan Kant Agnihotri</h1>
+
+I'm a Full Stack Developer currently working at Tata Consultancy Services (TCS), with a focus on building scalable, AI-powered applications. My expertise lies in designing modern frontend interfaces with **React.js** and **TypeScript**, building backend services using **FastAPI**, **Node.js**, and **Express**, and deploying intelligent systems leveraging **AWS services** like **Lambda**, **S3**, **Bedrock**, and **Textract**.
+
+I specialize in **GenAI, LLM-based chatbot development**, and have hands-on experience with RAG pipelines, NL2SQL systems, and automation tools for enterprise-scale solutions.
+
+You can find my detailed resume [here](https://drive.google.com/file/d/162iMEQ2OffZwN4FcmaSzJ8_vr9ui6jB2/view?usp=sharing).
+
+---
+
+<h2>📬 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/krishankantagnihotri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>
+  <a href="https://www.codechef.com/users/kk2_agnihotri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" width="30"/></a>
+  <a href="https://codeforces.com/profile/kk2_agnihotri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" alt="Codeforces" width="30"/></a>
+  <a href="https://www.leetcode.com/kk2_agnihotri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" width="30"/></a>
+  <a href="https://www.hackerrank.com/krishnaagnihotri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="HackerRank" width="30"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/_noname_/profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="30"/></a>
+</p>
+
+---
+
+<h2>🛠️ Skills & Technologies</h2>
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/fastapi.png" alt="FastAPI" width="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/>
+</p>
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li><a href="https://github.com/krishankantagnihotri/GenAI-Healthcare-Automation">GenAI-Based Healthcare Automation</a> — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
+  <li><a href="https://github.com/krishankantagnihotri/NL2SQL-Charting-System">Natural Language to SQL Reporting</a> — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
+  <li><a href="https://github.com/krishankantagnihotri/RAG-Document-Chatbot">RAG-Based Chatbot</a> — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
+  <li><a href="https://github.com/krishankantagnihotri/TransAutomation">TransAutomation</a> — A translation tool for audio/video/documents using AWS Polly, Transcribe, and Translate.</li>
+  <li><a href="https://github.com/krishankantagnihotri/laptop-recommendation-app">Laptop Recommendation App</a> — ML-powered laptop suggestions with live scraping and modern UI.</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishankantagnihotri&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantagnihotri&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishankantagnihotri&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishankantagnihotri.krishankantagnihotri)
+</div>
