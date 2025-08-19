@@ -49,6 +49,7 @@ You can find my detailed resume [here](https://drive.google.com/file/d/162iMEQ2O
 <h2>🚀 Featured Projects</h2>
 
 <ul>
+  <li><a href="https://github.com/KrishanKantAgnihotri/Object-Detection-Using-Yolov5">Object Detector</a> — Detects object on road very accurately and trained using Yolov5 build with the help of Pytorch</li>
   <li><a href="https://github.com/krishankantagnihotri/GenAI-Healthcare-Automation">GenAI-Based Healthcare Automation</a> — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
   <li><a href="https://github.com/krishankantagnihotri/NL2SQL-Charting-System">Natural Language to SQL Reporting</a> — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
   <li><a href="https://github.com/krishankantagnihotri/RAG-Document-Chatbot">RAG-Based Chatbot</a> — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
