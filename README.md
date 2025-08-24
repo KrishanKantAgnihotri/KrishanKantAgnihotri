@@ -55,7 +55,7 @@ You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6
   <li>Natural Language to SQL Reporting — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
   <li>RAG-Based Chatbot — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
   <li>TransAutomation — A translation tool for audio/video/documents using AWS Polly, Transcribe, and Translate.</li>
-  <li><a href="https://github.com/krishankantagnihotri/laptop-recommendation-app">Laptop Recommendation App</a> — ML-powered laptop suggestions with live scraping and modern UI.</li>
+  <li><a href="https://github.com/krishankantagnihotri/LaRA">Laptop Recommendation App</a> — ML-powered laptop suggestions with live scraping and modern UI.</li>
 </ul>
 
 ---
