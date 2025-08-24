@@ -7,11 +7,11 @@
 
 <h1>Hi 👋, I'm Krishan Kant Agnihotri</h1>
 
-I'm a Full Stack Developer currently working at Tata Consultancy Services (TCS), with a focus on building scalable, AI-powered applications. My expertise lies in designing modern frontend interfaces with **React.js** and **TypeScript**, building backend services using **FastAPI**, **Node.js**, and **Express**, and deploying intelligent systems leveraging **AWS services** like **Lambda**, **S3**, **Bedrock**, and **Textract**.
+I'm a Full Stack Developer currently working at Tata Consultancy Services (TCS), with a focus on building scalable, AI-powered applications. My expertise lies in designing modern frontend interfaces with **React.js**,**Next.js** and **TypeScript**, building backend services using **FastAPI**, **Node.js**, and **Express**, and deploying intelligent systems leveraging **AWS services** like **Lambda**, **S3**, **Bedrock**, and **Textract**.
 
 I specialize in **GenAI, LLM-based chatbot development**, and have hands-on experience with RAG pipelines, NL2SQL systems, and automation tools for enterprise-scale solutions.
 
-You can find my detailed resume [here](https://drive.google.com/file/d/162iMEQ2OffZwN4FcmaSzJ8_vr9ui6jB2/view?usp=sharing).
+You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6rEgV3snMUkFHD9iDRIEWVf-c/view?usp=sharing).
 
 ---
 
@@ -50,10 +50,11 @@ You can find my detailed resume [here](https://drive.google.com/file/d/162iMEQ2O
 
 <ul>
   <li><a href="https://github.com/KrishanKantAgnihotri/Object-Detection-Using-Yolov5">Object Detector</a> — Detects object on road very accurately and trained using Yolov5 build with the help of Pytorch</li>
-  <li><a href="https://github.com/krishankantagnihotri/GenAI-Healthcare-Automation">GenAI-Based Healthcare Automation</a> — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
-  <li><a href="https://github.com/krishankantagnihotri/NL2SQL-Charting-System">Natural Language to SQL Reporting</a> — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
-  <li><a href="https://github.com/krishankantagnihotri/RAG-Document-Chatbot">RAG-Based Chatbot</a> — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
-  <li><a href="https://github.com/krishankantagnihotri/TransAutomation">TransAutomation</a> — A translation tool for audio/video/documents using AWS Polly, Transcribe, and Translate.</li>
+    <li><a href="https://github.com/KrishanKantAgnihotri/krishan-portfolio">Portfolio Website</a> — Web Application build in NextJS with the help of TypeScript.</li>
+  <li>GenAI-Based Healthcare Automation — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
+  <li>Natural Language to SQL Reporting — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
+  <li>RAG-Based Chatbot — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
+  <li>TransAutomation — A translation tool for audio/video/documents using AWS Polly, Transcribe, and Translate.</li>
   <li><a href="https://github.com/krishankantagnihotri/laptop-recommendation-app">Laptop Recommendation App</a> — ML-powered laptop suggestions with live scraping and modern UI.</li>
 </ul>
 
