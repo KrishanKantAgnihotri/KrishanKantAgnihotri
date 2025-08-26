@@ -50,7 +50,7 @@ You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6
 
 <ul>
   <li><a href="https://github.com/KrishanKantAgnihotri/Object-Detection-Using-Yolov5">Object Detector</a> — Detects object on road very accurately and trained using Yolov5 build with the help of Pytorch</li>
-    <li><a href="https://github.com/KrishanKantAgnihotri/krishan-portfolio">Portfolio Website</a> — Web Application build in NextJS with the help of TypeScript.</li>
+    <li><a href="https://krishan-portfolio-xi.vercel.app">Portfolio Website</a> — Web Application build in NextJS with the help of TypeScript.</li>
   <li>GenAI-Based Healthcare Automation — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
   <li>Natural Language to SQL Reporting — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
   <li>RAG-Based Chatbot — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
