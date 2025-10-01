@@ -51,11 +51,12 @@ You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6
 <ul>
   <li><a href="https://github.com/KrishanKantAgnihotri/Object-Detection-Using-Yolov5">Object Detector</a> — Detects object on road very accurately and trained using Yolov5 build with the help of Pytorch</li>
     <li><a href="https://krishan-portfolio-xi.vercel.app">Portfolio Website</a> — Web Application build in NextJS with the help of TypeScript.</li>
+  <li><a href="https://github.com/krishankantagnihotri/Multi-Agent-Content-Transformation">Multi-Agent-Content-Transformation</a> - Multi-Agent application where there are multiple agent like Planning agent, Transformation Agent, Orchasterator Agent and Feedback agent built using Langchain and Langgraph.</li> 
   <li>GenAI-Based Healthcare Automation — Automates document handling for healthcare using AWS Bedrock and Textract.</li>
   <li>Natural Language to SQL Reporting — Converts natural queries to SQL and visualizes output charts using LLMs and React.</li>
   <li>RAG-Based Chatbot — Retrieves contextual answers from long documents using Retrieval-Augmented Generation.</li>
   <li>TransAutomation — A translation tool for audio/video/documents using AWS Polly, Transcribe, and Translate.</li>
-  <li><a href="https://github.com/krishankantagnihotri/LLM-POWERED-NLP-PIPELINE">LLM-POWERED-NLP-PIPELINE</a> - A full NLP pipeline with RAG implentation build using Langchain</li>
+  <li><a href="https://github.com/krishankantagnihotri/LLM-POWERED-NLP-PIPELINE">LLM-POWERED-NLP-PIPELINE</a> - A full NLP pipeline with RAG implentation build using Langchain and FASTAPI</li>
   <li><a href="https://github.com/krishankantagnihotri/LaRA">Laptop Recommendation App</a> — ML-powered laptop suggestions with live scraping and modern UI.</li>
   <li><a href="https://github.com/KrishanKantAgnihotri/Restaurant-front-end">Restaurant Web APP</a> - Web App application built in ReactJS and NodeJS where ExpressJS is used as Server and MongoDB is used as Database.Uses JWT based authentication</li>
 </ul>
