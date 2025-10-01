@@ -9,7 +9,7 @@
 
 I'm a Full Stack Developer currently working at Tata Consultancy Services (TCS), with a focus on building scalable, AI-powered applications. My expertise lies in designing modern frontend interfaces with **React.js**,**Next.js** and **TypeScript**, building backend services using **FastAPI**, **Node.js**, and **Express**, and deploying intelligent systems leveraging **AWS services** like **Lambda**, **S3**, **Bedrock**, and **Textract**.
 
-I specialize in **GenAI, LLM-based chatbot development**, and have hands-on experience with RAG pipelines, NL2SQL systems, and automation tools for enterprise-scale solutions.
+I specialize in **GenAI, LLM-based chatbot development**, and have hands-on experience with RAG pipelines, NL2SQL systems, and automation tools for enterprise-scale solutions and building Agentic AI application using **Langraph** and **CREWAI**.
 
 You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6rEgV3snMUkFHD9iDRIEWVf-c/view?usp=sharing).
 
