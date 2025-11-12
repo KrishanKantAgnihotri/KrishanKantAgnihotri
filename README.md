@@ -49,6 +49,7 @@ You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6
 <h2>🚀 Featured Projects</h2>
 
 <ul>
+  <li><a href="https://github.com/KrishanKantAgnihotri/VocalHire-Ai-Video-Interview-Solution"> VocalHire AI Video Interview</a> - Helps to Prepare for Interviews built using Langchain,Langraph Agent in FastAPI and ReactJS</li>
   <li><a href="https://github.com/KrishanKantAgnihotri/Object-Detection-Using-Yolov5">Object Detector</a> — Detects object on road very accurately and trained using Yolov5 build with the help of Pytorch</li>
     <li><a href="https://krishan-portfolio-xi.vercel.app">Portfolio Website</a> — Web Application build in NextJS with the help of TypeScript.</li>
   <li><a href="https://github.com/krishankantagnihotri/Multi-Agent-Content-Transformation">Multi-Agent-Content-Transformation</a> - Multi-Agent application where there are multiple agent like Planning agent, Transformation Agent, Orchasterator Agent and Feedback agent built using Langchain and Langgraph.</li> 
