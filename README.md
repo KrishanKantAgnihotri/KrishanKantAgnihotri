@@ -11,7 +11,7 @@ I'm a Full Stack Developer currently working at Tata Consultancy Services (TCS),
 
 I specialize in **GenAI, LLM-based chatbot development**, and have hands-on experience with RAG pipelines, NL2SQL systems, and automation tools for enterprise-scale solutions and building Agentic AI application using **Langraph** and **CREWAI**.
 
-You can find my detailed resume [here](https://drive.google.com/file/d/10ECFTGf6rEgV3snMUkFHD9iDRIEWVf-c/view?usp=sharing).
+You can find my detailed resume [here](https://drive.google.com/file/d/1KyFhbK6LCkbw2nNUzXMQk_tnNAbzMQ0L/view?usp=sharing).
 
 ---
 
