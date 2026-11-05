@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Executive Summary
 
-AI Software Engineer with **2.8+ years of production experience** architecting enterprise Generative AI systems, stateful multi-agent swarms, and scalable cloud microservices. Specialized in **Agentic AI (LangGraph, CrewAI)**, **State & Memory Management (LangGraph Checkpointers, Redis, Mem0)**, **GraphRAG**, **Multimodal Document Intelligence**, and **LLMOps (Evals, Tracing, Guardrails)** across AWS and Microsoft Azure.
+AI Software Engineer with **~3 years of production experience** architecting enterprise Generative AI systems, stateful multi-agent swarms, and scalable cloud microservices. Specialized in **Agentic AI (LangGraph, CrewAI)**, **State & Memory Management (LangGraph Checkpointers, Redis, Mem0)**, **GraphRAG**, **Multimodal Document Intelligence**, and **LLMOps (Evals, Tracing, Guardrails)** across AWS and Microsoft Azure.
 
 Dual-certified across **Anthropic Claude**, **Microsoft Azure AI**, and **Amazon Web Services (AWS)**.
 
